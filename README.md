@@ -1,6 +1,6 @@
-# Simple-Mern-Stack-Application
+# Social-Media-Mern-Stack-Application
 
-A Simple Mern-Stack-Application which allows the user to perform CRUD operations
+A Social Media Mern-Stack-Application which allows the user to perform CRUD operations
 Features Include:
 Sign in, Sign up, Edit User, Authenticate User, Delete User
 
