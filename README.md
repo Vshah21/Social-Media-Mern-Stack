@@ -2,7 +2,7 @@
 
 A Social Media Mern-Stack-Application which allows the user to perform CRUD operations
 Features Include:
-Sign in, Sign up, Edit User, Authenticate User, Delete User
+Sign in, Sign up, Edit User, Authenticate User, Delete User, Create Post, Update Post, Delete Post, Follow and UnFollow people, Comment on a Post.
 
 Open the project and install node dependencies.
 
